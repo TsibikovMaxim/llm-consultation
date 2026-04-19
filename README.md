@@ -135,7 +135,10 @@ uv run pytest tests/ -v
 
 ### Тесты
 
+#### Auth Service
 ![Тесты Auth Service](screenshots/tests1.png)
+
+#### Bot Service
 ![Тесты Bot Service](screenshots/tests2.png)
 
 ## Безопасность
